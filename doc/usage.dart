@@ -7,4 +7,5 @@
 6) Firebase cloud storage
 7) Firebase storage
 8) assets
+(9)flutter_svg
  */
